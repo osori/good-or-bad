@@ -35,7 +35,8 @@ Any word, if it's on Wikipedia, can be evaluated with this script. Even people, 
     Enter the word: Donald Trump
     
     [ Result ]
-    Baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad 👎 (Score: -49)   # This guy must be a real douche. He's worse than North Korea!
+    Baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad 👎 (Score: -49)
+    # This guy must be a real douche. He's worse than North Korea!
     
     Positive score:  121
     Negative score:  170
