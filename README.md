@@ -1,4 +1,5 @@
 # good-or-bad
+![gif-demo1](https://github.com/osori/good-or-bad/blob/master/gifs/death.gif?raw=true) ![gif-demo2](https://github.com/osori/good-or-bad/blob/master/gifs/life.gif?raw=true)
 
 This is a rude and judgmental python script that judges, based on the word's Wikipedia article, if a word is good or bad. The criteria of good/badness of each word in the article is defined by the positive/negative sentiment word lists from Opinion Lexicon: Positive & Negative (Hu and Liu, 2004).
 
