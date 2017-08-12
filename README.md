@@ -35,7 +35,10 @@ Any word, if it's on Wikipedia, can be evaluated with this script. Even people, 
     Enter the word: Donald Trump
     
     [ Result ]
-    Baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad 👎 (Score: -49)
+    Baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad 👎 (Score: -49)   # This guy must be a real douche. He's worse than North Korea!
+    
+    Positive score:  121
+    Negative score:  170
     
 ## Reference
 1. Minqing Hu and Bing Liu. "Mining and summarizing customer reviews." Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2004, full paper), Seattle, Washington, USA, Aug 22-25, 2004.
