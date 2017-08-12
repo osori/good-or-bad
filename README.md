@@ -4,7 +4,7 @@ This is a rude and judgmental python script that judges, based on the word's Wik
 
 ## Built with
 - [NLTK (Natural Language Toolkit)](https://github.com/nltk/nltk) - a Python library for statistical Natural Language Processing
-- [Wikipedia](https://pypi.python.org/pypi/wikipedia) - a Python library that makes accessing and parsing Wikipedia data easy
+- [wikipedia](https://pypi.python.org/pypi/wikipedia) - a Python library that makes accessing and parsing Wikipedia data easy
 
 ## Examples
 
