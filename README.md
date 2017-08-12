@@ -1,6 +1,6 @@
 # good-or-bad
 
-This is a rude and judgmental python script that judges, based on the word's Wikipedia article, if a word is good or bad. The criteria of good/badness of a word is defined by the positive/negative sentiment word lists from Opinion Lexicon: Positive & Negative (Hu and Liu, 2004).
+This is a rude and judgmental python script that judges, based on the word's Wikipedia article, if a word is good or bad. The criteria of good/badness of each word in the article is defined by the positive/negative sentiment word lists from Opinion Lexicon: Positive & Negative (Hu and Liu, 2004).
 
 ## Built using
 - [NLTK (Natural Language Toolkit)](https://github.com/nltk/nltk) - a Python library for statistical Natural Language Processing
