@@ -29,7 +29,7 @@ Now compare it with this:
     Positive score:  173
     Negative score:  160
     
-What do you think? Not bad, right?
+Of course, as we expected, `South Korea = Good Korea` .
 
 Any word, if it's on Wikipedia, can be evaluated with this script. Even people, incidents, and so much more! 
 
